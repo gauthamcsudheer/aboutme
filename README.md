@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Gautham0931
+- 👋 Hi, I’m Gautahm C Sudheer
 - 👀 I’m interested in Artificial Intelligence and Machine Learning
-- 🌱 I’m currently learning High School Computer Science
+- 🌱 I’m currently learning B.Tech Computer Science and Engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me csgautham091003@gmail.com
 
