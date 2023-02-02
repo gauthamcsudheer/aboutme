@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gautham C Sudheer</h1>
-<h3 align="center">A passionate frontend developer from India, studying Computer Science and Engineering @ Rajagiri School Of Engineering & Technology, Kochi</h3>
+<h3 align="center">A passionate frontend developer from India, studying Computer Science and Engineering <br>@Rajagiri School Of Engineering & Technology, Kochi</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauthamcsudheer&label=Profile%20views&color=0e75b6&style=flat" alt="gauthamcsudheer" /> </p>
 
